@@ -159,9 +159,9 @@ strong {
 
 .post-img {
     float: right;
-    width: 160px;
+    width: 120px;
     margin: 0 0 15px 15px !important;
-    border-radius: 50% !important;
+    border-radius: 40% !important;
     border: 3px solid var(--tertiary);
 }
 
